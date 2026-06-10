@@ -1,8 +1,13 @@
-# 🌞 Combo Lesson 1 — My Day, from Morning to Night
+# 🌞 Combo Lesson 1 — My Day, from Morning to Night (Level UP ⬆️)
 
-**Built from Question Bank sections:** 1 (Day & Time) + 6 (Daily Routine) + 11 (Evening & Night)
-**Grammar focus:** present simple + time ("I wake up **at** six thirty") + sequence words: **first, then, next, after that, finally**
-**Spelling set:** Level 1–2 — *sun, bed, wake, sleep, night, seven*
+**Built from Question Bank sections:** 1 (Day & Time) + 6 (Daily Routine) + 11 (Evening & Night) + 22A (Yesterday!) + 22C (How often…?)
+**Grammar focus:**
+1. Present simple + clock time: "I wake up **at a quarter past six**."
+2. **Past simple** for retelling: "Yesterday Bin **woke up** at midnight." (wake→woke, eat→ate, go→went, put→put, say→said, brush→brushed)
+3. Frequency adverbs: **always / usually / sometimes / never** — "I **never** stay up late… well, **sometimes**!"
+4. Sequence + time words: **first, then, next, after that, finally, before, after, while, until**
+
+**Spelling set:** Level 2–3 — *sleep, night, dream, eight, school, o'clock*
 
 ---
 
@@ -10,40 +15,66 @@
 
 | English | Tiếng Việt | His sentence like… |
 |---------|-----------|--------------------|
-| wake up | thức dậy | I wake up at six thirty. |
+| alarm clock | đồng hồ báo thức | My alarm clock rings at six o'clock. |
+| yawn / stretch | ngáp / vươn vai | I yawn and stretch when I wake up. |
+| sleepy / wide awake | buồn ngủ / tỉnh táo | At night I am sleepy. At midnight Bin is wide awake! |
 | get dressed | mặc quần áo | I get dressed before breakfast. |
-| hurry | vội vàng | Hurry! We are late! |
-| late / early | muộn / sớm | I am never late for school. |
-| midnight | nửa đêm | At midnight everyone is sleeping. |
-| first | đầu tiên | First, I brush my teeth. |
-| then / next | sau đó | Then I wash my face. Next, I eat. |
-| finally | cuối cùng | Finally, I go to bed. |
-| backwards | ngược | He did everything backwards! |
-| dream | giấc mơ / mơ | I dreamed about a dragon. |
+| in a hurry | đang vội | Dad is in a hurry every morning! |
+| on time / late / early | đúng giờ / muộn / sớm | I am usually on time, never late. |
+| a quarter past / a quarter to | …giờ 15 / …giờ kém 15 | It's a quarter past seven. School starts at a quarter to eight! |
+| half past | …giờ rưỡi | I eat dinner at half past six. |
+| stay up late | thức khuya | On Saturday I sometimes stay up late. |
+| fall asleep | ngủ thiếp đi | I fall asleep while Mom is reading. |
+| until | cho đến khi | I sleep until the sun comes up. |
+| backwards | ngược | Yesterday he did everything backwards! |
 
 ---
 
-## 📖 Story: *The Backwards Boy* (Cậu bé làm mọi thứ ngược đời)
+## ⚡ Quick-fire warm-up — harder mix! (he answers FAST, full sentences)
 
-Read it aloud together — he will notice everything is WRONG. That's the game.
+| Question | Answer |
+|----------|--------|
+| What time is it now — exactly? | It's a quarter past eight. / It's twenty to nine. |
+| What time do you wake up? And on Sunday? | At six thirty. On Sunday I sleep until eight! |
+| What did you do BEFORE breakfast this morning? | Before breakfast I brushed my teeth and got dressed. |
+| What did you eat yesterday evening? | I ate rice, fish, and soup. |
+| Where did you go yesterday? What did you see? | I went to school. I saw a big dog on the way. |
+| How often are you late for school? | I'm never late! / I'm sometimes late… |
+| How often does Dad cook dinner? | He sometimes cooks on Sunday. |
+| What do you do WHILE Mom cooks dinner? | While Mom cooks, I do my homework. |
+| What do you do until you fall asleep? | I read a book until I fall asleep. |
+| What did you dream about last night? | I dreamed about flying like a bird! |
 
-> Bin is a funny boy. One day, he does everything **backwards**!
-> First, he wakes up **at midnight**. "Good morning!" he says to the moon.
-> Then he eats **dinner for breakfast** — rice, fish, and soup at 5 a.m.!
-> Next, he puts his **pajamas on** and goes to school. The teacher laughs: "Bin! Where is your uniform?"
-> After school, he brushes his teeth **before** dinner, not after.
-> Then he eats **breakfast for dinner** — milk and bread at 8 p.m.!
-> Finally, he goes to bed **in the morning**, when the sun comes up.
-> "Good night!" he says to the sun. The sun says: "Bin!! It's MORNING!"
+---
 
-**Story questions (he answers in full sentences):**
-1. When does Bin wake up? Is that right or wrong?
-2. What does he eat for breakfast? What SHOULD he eat?
-3. What does he wear to school? What should he wear?
-4. When does he go to bed? When do YOU go to bed?
+## 📖 Story: *The Backwards Boy — and the Backwards Day* (Cậu bé ngược đời)
 
-**⭐ The big task — Fix Bin's day!** He retells the story the CORRECT way, using sequence words:
-"First, Bin wakes up **in the morning**. Then he eats breakfast — milk and bread. Next, he puts on his **uniform**…" (This is the heart of the lesson — help only with sequence words.)
+Read it aloud together — everything is WRONG, and now it happened **yesterday**, so the verbs are past tense. That's the new game: he must catch the wrong THINGS *and* use the right VERBS.
+
+> Yesterday, Bin **did** everything backwards!
+> First, his alarm clock **rang** at midnight. Bin **woke up**, **yawned**, **stretched**, and **said** "Good morning!" to the moon. He was wide awake!
+> Then he **ate** dinner for breakfast — rice, fish, and soup at five in the morning!
+> Next, he **put on** his pajamas and **went** to school at a quarter past six. The gate was closed. He waited **until** a quarter to eight!
+> The teacher **laughed**: "Bin! Where is your uniform? And why are you so early?"
+> After school, he **brushed** his teeth *before* dinner, not after.
+> While his mom **was cooking** dinner, Bin **fell asleep** at the table!
+> He **woke up** at eight, **ate** breakfast for dinner — milk and bread — and then **stayed up** all night.
+> Finally, he **went** to bed in the morning, when the sun **came up**.
+> "Good night!" he **said** to the sun. The sun said: "Bin!! It's MORNING! You always do this!"
+> Bin laughed: "Not always. Only sometimes!"
+
+**Story questions (full sentences, past tense!):**
+1. What time did Bin's alarm clock ring? Is that right or wrong? When does YOUR alarm ring?
+2. What did he eat at 5 a.m.? What SHOULD he eat for breakfast?
+3. Why did Bin wait at the school gate? Until what time?
+4. What happened while his mom was cooking?
+5. The sun said "You ALWAYS do this" and Bin said "only SOMETIMES." Who is right? How often do YOU do backwards things?
+
+**⭐ The big task — Fix Bin's day, in the PAST!** He retells yesterday the CORRECT way, past tense + sequence words:
+"First, Bin **woke up** in the morning, at half past six. Then he **ate** breakfast — milk and bread. Next, he **put on** his uniform and **went** to school at a quarter past seven…"
+(This is the heart of the lesson. Help only with sequence words — if he says "goed" or "eated," just echo the right form and keep going.)
+
+**⭐⭐ Bonus challenge:** he tells the story AGAIN about himself: "Yesterday *I* did everything backwards! First, I…" — he invents his own three backwards things, past tense.
 
 ---
 
@@ -51,29 +82,32 @@ Read it aloud together — he will notice everything is WRONG. That's the game.
 
 | Time | Activity |
 |------|----------|
-| 0–8 min | Warm-up: 10 quick-fire questions from sections **1, 6, 11** (mix: "What time is it?", "What do you do after you wake up?", "What can you see in the sky at night?") |
-| 8–18 min | New vocabulary: say → spell → his own sentence |
-| 18–30 min | **Story:** read *The Backwards Boy* twice (second time HE reads the easy lines), then story questions |
-| 30–40 min | **Fix Bin's day** — he retells it correctly with first/then/next/finally |
-| 40–45 min | Writing: he writes HIS morning in 3 lines: "First, I… Then I… Finally, I…" |
-| 45–55 min | 🎮 Family game: **My Backwards Day** (below) |
-| 55–60 min | He asks each family member: "What time do you wake up? What do you do first?" Sticker ⭐ |
+| 0–8 min | Quick-fire warm-up table above + 3–4 surprise questions from bank sections **1, 6, 11** |
+| 8–16 min | New vocabulary: say → spell → his own sentence. Then **clock drill**: you draw hands on a paper clock, he says "It's a quarter to nine" — 6 clocks, fast |
+| 16–30 min | **Story:** read twice (second time HE reads Bin's lines and the sun's lines), then story questions 1–5 |
+| 30–40 min | **Fix Bin's day in the past** + bonus "Yesterday I did everything backwards" |
+| 40–47 min | Writing: he writes YESTERDAY in 4 lines, past tense: "Yesterday, first I… Then I… After that I… Finally I…" |
+| 47–55 min | 🎮 Family game: **My Backwards Yesterday** (below) |
+| 55–60 min | He interviews family: "What time did you wake up yesterday? How often are you late for work?" Sticker ⭐ |
 
 ---
 
-## 🎮 Family game: My Backwards Day (cả nhà cùng chơi)
+## 🎮 Family game: My Backwards Yesterday (cả nhà cùng chơi)
 
-Everyone sits in a circle. Each player (Dad, Mom, Grandma too!) tells ONE backwards thing about their day:
-- Dad: "Today I drove my motorbike… in the bathroom!"
-- Mom: "I cooked dinner… at 4 a.m.!"
-- He must catch it and fix it: "No! You drove your motorbike ON THE ROAD!"
+Everyone sits in a circle. Each player tells ONE backwards thing about **yesterday — past tense!**:
+- Dad: "Yesterday I drove my motorbike… in the bathroom!"
+- Mom: "Yesterday I cooked dinner… at four in the morning!"
+- Grandma: "Yesterday I slept… on the roof!"
 
-Then swap: HE says backwards sentences and the family fixes them — but sometimes the family fixes them WRONG, and he must catch that too. Funniest backwards sentence of the night wins a point on the fridge score sheet.
+He must catch it AND fix it in the past tense: "No! Yesterday you DROVE your motorbike on the road!"
 
-**More games that fit tonight:** Simon Says (actions: wake up! brush your teeth! sleep!), Mime the Routine — all in the [Family Game Bank](family_games.md).
+**Level 2 of the game:** the family also makes GRAMMAR mistakes on purpose — "Yesterday I goed to the market" — and he must catch those too: "Not *goed* — WENT!" One point for catching a backwards thing, TWO points for catching a wrong verb. Score sheet on the fridge.
+
+**More games that fit tonight:** Simon Says with time ("Simon says it's midnight — sleep!"), Mime the Routine — all in the [Family Game Bank](family_games.md).
 
 ## ✅ Success check
-1. Retells Bin's day correctly with first / then / next / after that / finally.
-2. Tells his OWN morning routine in 4+ sentences without help.
-3. Asks family members 2 routine questions at dinner.
-4. Spells: *sun, bed, wake, sleep, night, seven*.
+1. Retells Bin's day correctly **in the past tense** with first / then / next / after that / finally — at least 6 sentences.
+2. Tells his OWN yesterday in 4+ past-tense sentences without help (woke, ate, went, did).
+3. Reads a paper clock with **a quarter past / a quarter to / half past** — 5 out of 6 right.
+4. Uses **always / usually / sometimes / never** correctly in 3 answers.
+5. Spells: *sleep, night, dream, eight, school, o'clock*.
