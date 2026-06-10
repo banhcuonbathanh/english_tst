@@ -1,0 +1,1 @@
+Sight words Storytelling Rhyming words Opposites and synonyms Basic grammar (nouns, verbs, adjectives) Reading simple books Writing short sentences New vocabulary words Public speaking and sharing ideas in to weather lesson
